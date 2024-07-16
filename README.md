@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 👨🏽‍💻 Full-Stack Developer
+- 👨🏽‍💻 Full-Stack Web Developer
 
 - 🔭 Actualmente estoy haciendo proyectos con React, Next, Nodejs, MongoDB y Prisma**
 
