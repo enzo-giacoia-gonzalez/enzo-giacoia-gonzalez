@@ -59,8 +59,8 @@
 
 <p align="center">
 <a href="https://github.com/enzo-giacoia-gonzalez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EVZODA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EVZODA&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enzo-giacoia-gonzalez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enzo-giacoia-gonzalez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
