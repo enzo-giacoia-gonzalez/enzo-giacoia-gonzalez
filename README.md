@@ -36,7 +36,18 @@
 - 📫 No dudes en comunicarte conmigo <a href="https://www.linkedin.com/in/enzo-giacoia-gonz%C3%A1lez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
 
 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contactate conmigo🤝</h2></summary>
+  </ul>
+</div>
 
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/enzo-giacoia-gonz%C3%A1lez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
 
 
 
@@ -108,8 +119,7 @@
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+</div>                                                                                      
 </td>    
 
 
@@ -124,18 +134,7 @@
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contactate conmigo🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/enzo-giacoia-gonz%C3%A1lez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-</p>
 
 
 
