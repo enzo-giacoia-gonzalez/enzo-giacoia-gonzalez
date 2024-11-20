@@ -52,7 +52,7 @@
   </a>
 </p>
 
-## Proyectos *bombitas*
+## Mis Proyectos 
 <table>
 <tr>
 <td width="50%">
