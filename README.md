@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/961b3960-2e11-483d-b8e7-839597d763b3)![image](https://github.com/user-attachments/assets/07f19d04-5f99-4149-a245-d37d973559c7)<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
