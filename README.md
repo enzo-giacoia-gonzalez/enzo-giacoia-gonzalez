@@ -27,6 +27,7 @@
 
 <!--Intro start-->
 
+<div align="start">
 <p> 👨🏽‍💻 Desarrollador Full-Stack, orientado hacia el Front-End</p>
 
 <p> 🔭 Actualmente estoy trabajando en proyectos con React, Next.js, Node.js, MongoDB y Prisma</p>
@@ -34,6 +35,8 @@
 <p> 🌱 Siempre en busca de nuevas oportunidades para aprender y mejorar. Creo firmemente que mantenerse actualizado es clave para el crecimiento profesional en el ambito del Desarrollo.</p>
 
 <p> 📫 No dudes en comunicarte conmigo <a href="https://www.linkedin.com/in/enzo-giacoia-gonz%C3%A1lez/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a> </p>
+
+</div>
 
 
 
