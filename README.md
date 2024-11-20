@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 
-- 👨🏽‍💻 Desarrollador Full-Stack, orientado hacia el Front-End
+<p>- 👨🏽‍💻 Desarrollador Full-Stack, orientado hacia el Front-End</p>
 
 - 🔭 Actualmente estoy trabajando en proyectos con React, Next.js, Node.js, MongoDB y Prisma
 
