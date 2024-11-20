@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+![image](https://github.com/user-attachments/assets/961b3960-2e11-483d-b8e7-839597d763b3)![image](https://github.com/user-attachments/assets/07f19d04-5f99-4149-a245-d37d973559c7)<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -58,8 +58,7 @@
 <td width="50%">
 <h3 align="center">Ecommerce Next js 14</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="![image](https://github.com/user-attachments/assets/587a20ce-a2f6-4d95-b07d-62c848d87d67)
-" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
