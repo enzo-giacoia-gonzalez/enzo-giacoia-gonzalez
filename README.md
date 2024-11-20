@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>next-store es un ecommerce en donde se puede comprar ropa. El objetivo para desarrollar esta pagina, fue el deseo de mejorar mis habilidades en Next Js, esto tambien permitio que pueda mejorar mis habilidad en el front y en back El link para ver la pagina es: https://next-store-two-rho.vercel.app/</p>
 </div>
                                                                                       
 </td>
