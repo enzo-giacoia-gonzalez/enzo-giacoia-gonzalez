@@ -115,7 +115,7 @@
                <br>
 <h3 align="center">Proyecto en curso</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://www.freepik.es/fotos-vectores-gratis/proceso-proyecto/5" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://img.freepik.com/foto-gratis/papeles-comerciales-naturaleza-muerta-varias-piezas-mecanismo_23-2149352652.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="" target="_blank">
