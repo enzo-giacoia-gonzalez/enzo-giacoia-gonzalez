@@ -100,10 +100,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">game-store-js</h3>
+<h3 align="center">Game Store React JS</h3>
 <div align="center">
-<a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt=""></a>
 <p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
