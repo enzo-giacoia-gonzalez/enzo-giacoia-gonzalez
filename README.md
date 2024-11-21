@@ -136,7 +136,7 @@ Este proyecto fue realizado para mejorar mis habilidades en React y aprender cos
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Cuando el proyecto este finalizado estará la descripción</p>
+</p>Cuando el proyecto este finalizado estará la descripción y los enlaces disponibles </p>
 </div>                                                             
 </table>                                                                                 
 </div>
