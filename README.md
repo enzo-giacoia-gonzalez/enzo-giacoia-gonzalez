@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Ecommerce Next js 14</h3>
 <div align="center">
-<a href="https://next-store-two-rho.vercel.app/" target="_blank"><img src="https://private-user-images.githubusercontent.com/107887081/388126346-07f19d04-5f99-4149-a245-d37d973559c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxMTIxNjgsIm5iZiI6MTczMjExMTg2OCwicGF0aCI6Ii8xMDc4ODcwODEvMzg4MTI2MzQ2LTA3ZjE5ZDA0LTVmOTktNDE0OS1hMjQ1LWQzN2Q5NzM1NTljNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMFQxNDExMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMmJkMTdjNmU0NDQ1MGMwYzhiNzRiODVkNTNjY2M4OWE0ZWM3ZTYwZTJiOTMyZmZjMmQzZjM4YzI0ZTMxNTE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.SUN41GHm0YRl17xq1ywTwBsZ-1_K3nOEY9xR1q9GW3o" width="400" alt="Curso básico android"></a>
+<a href="https://next-store-two-rho.vercel.app/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/My-Ecommerce-Nextjs14/raw/main/public/readme/foto%201.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/enzo-giacoia-gonzalez/My-Ecommerce-Nextjs14" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
