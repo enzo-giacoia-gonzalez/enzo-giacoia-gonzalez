@@ -105,10 +105,10 @@
 <a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt=""></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO FRONT-END-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO BACK-END-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
