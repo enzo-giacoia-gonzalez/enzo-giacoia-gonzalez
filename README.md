@@ -106,7 +106,7 @@
 <a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt=""></a>
 <p>
 <a href="https://github.com/enzo-giacoia-gonzalez/game-market-front.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/enzo-giacoia-gonzalez/Game-market-back.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
