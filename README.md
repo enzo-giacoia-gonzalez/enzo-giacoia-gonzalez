@@ -115,7 +115,9 @@
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Game Store es un ecommerce de juegos donde los usuarios pueden crear una cuenta e iniciar sesión, modificar su perfil, restablecer su contraseña, añadir productos al carrito y realizar una compra, ver su historial de compras y el administrador puede hacer lo mismo, pero además administrar todos los productos y las categorías dentro del ecommerce.
+
+Este proyecto fue realizado para mejorar mis habilidades en React y aprender cosas que se utilizan en el ámbito laboral.</p>
 </div>
                                                                                       
 </td>
