@@ -109,7 +109,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/enzo-giacoia-gonzalez/Game-market-back.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
