@@ -148,7 +148,7 @@ Este proyecto fue realizado para mejorar mis habilidades en React y aprender cos
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contactate conmigo🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contáctate conmigo🤝</h2></summary>
   </ul>
 </div>
 
