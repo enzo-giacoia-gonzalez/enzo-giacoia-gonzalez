@@ -111,7 +111,7 @@
 <a href="https://github.com/enzo-giacoia-gonzalez/Game-market-back.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://next-store-two-rho.vercel.app/" target="_blank">
+<a href="https://game-store-js.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
