@@ -95,7 +95,9 @@
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p></p>
+</p>El proyecto Psicologist es una plataforma web que conecta a usuarios con psicólogos, ofreciendo una interfaz moderna y fácil de usar. El Front-End está desarrollado con React y TypeScript utilizando Vite para un rendimiento optimizado. Implementa Material UI para un diseño atractivo y Axios para la comunicación con el backend, además de funcionalidades como enrutamiento con React Router DOM y procesamiento de pagos con PayPal.
+
+El Back-End está construido con Node.js y Express, gestionando la autenticación de usuarios con JWT, la encriptación de contraseñas mediante bcryptjs, y el manejo de archivos a través de Cloudinary. También incluye validaciones con express-validator, envío de correos electrónicos con nodemailer, y soporte para bases de datos MongoDB mediante mongoose. La integración de múltiples tecnologías garantiza una experiencia de usuario fluida y segura, tanto para los pacientes como para los profesionales.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
