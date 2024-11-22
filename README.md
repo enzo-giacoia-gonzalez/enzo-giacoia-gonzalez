@@ -86,10 +86,10 @@
 <p>
 	
 <a href="https://github.com/enzo-giacoia-gonzalez/frontEndPsychologist.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO FRONT-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/enzo-giacoia-gonzalez/backPsychologist.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO BACK-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://fronendpsychologist.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
