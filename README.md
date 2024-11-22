@@ -79,6 +79,31 @@
 
 <td width="50%">
                <br>
+<h3 align="center">Game Store React js</h3>
+<div align="center">
+<a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/game-market-front/blob/main/public/img/readme/ecommerce.png?raw=true" width="400" alt=""></a>
+<p>
+<a href="https://github.com/enzo-giacoia-gonzalez/game-market-front.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/enzo-giacoia-gonzalez/Game-market-back.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://game-store-js.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Game Store es un ecommerce de juegos donde los usuarios pueden crear una cuenta e iniciar sesión, modificar su perfil, restablecer su contraseña, añadir productos al carrito y realizar una compra, ver su historial de compras y el administrador puede hacer lo mismo, pero además administrar todos los productos y las categorías dentro del ecommerce.
+
+Este proyecto fue realizado para mejorar mis habilidades en React y aprender cosas que se utilizan en el ámbito laboral.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Aplicación Web Psicóloga</h3>
 <div align="center">                                       
 <a href="https://fronendpsychologist.onrender.com/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/fronEndPsychologist/blob/main/public/img/readme/Web%20Psic%C3%B3loga.png?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
@@ -98,31 +123,7 @@
 </p>El proyecto Psicologist es una plataforma web que conecta a usuarios con psicólogos, ofreciendo una interfaz moderna y fácil de usar. El Front-End está desarrollado con React y TypeScript utilizando Vite para un rendimiento optimizado. Implementa Material UI para un diseño atractivo y Axios para la comunicación con el backend, además de funcionalidades como enrutamiento con React Router DOM y procesamiento de pagos con PayPal.
 
 El Back-End está construido con Node.js y Express, gestionando la autenticación de usuarios con JWT, la encriptación de contraseñas mediante bcryptjs, y el manejo de archivos a través de Cloudinary. También incluye validaciones con express-validator, envío de correos electrónicos con nodemailer, y soporte para bases de datos MongoDB mediante mongoose. La integración de múltiples tecnologías garantiza una experiencia de usuario fluida y segura, tanto para los pacientes como para los profesionales.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Game Store React js</h3>
-<div align="center">
-<a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/game-market-front/blob/main/public/img/readme/ecommerce.png?raw=true" width="400" alt=""></a>
-<p>
-<a href="https://github.com/enzo-giacoia-gonzalez/game-market-front.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/enzo-giacoia-gonzalez/Game-market-back.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO BACK-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://game-store-js.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-<p>Game Store es un ecommerce de juegos donde los usuarios pueden crear una cuenta e iniciar sesión, modificar su perfil, restablecer su contraseña, añadir productos al carrito y realizar una compra, ver su historial de compras y el administrador puede hacer lo mismo, pero además administrar todos los productos y las categorías dentro del ecommerce.
-
-Este proyecto fue realizado para mejorar mis habilidades en React y aprender cosas que se utilizan en el ámbito laboral.</p>
 </div>
                                                                                       
 </td>
