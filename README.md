@@ -78,7 +78,7 @@
 </td>
 
 <td width="50%">
-               <br>
+
 <h3 align="center">Game Store React js</h3>
 <div align="center">
 <a href="https://game-store-js.netlify.app/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/game-market-front/blob/main/public/img/readme/ecommerce.png?raw=true" width="400" alt=""></a>
