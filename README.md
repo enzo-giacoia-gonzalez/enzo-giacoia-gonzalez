@@ -79,7 +79,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Aplicacion Web Psicologa</h3>
 <div align="center">                                       
 <a href="https://fronendpsychologist.onrender.com/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/fronEndPsychologist/blob/main/public/img/readme/Web%20Psic%C3%B3loga.png?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p></p>
 </div>                                                             
 </table>                                                                                 
 </div>
