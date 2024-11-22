@@ -79,7 +79,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Aplicacion Web Psicologa</h3>
+<h3 align="center">Aplicación Web Psicóloga</h3>
 <div align="center">                                       
 <a href="https://fronendpsychologist.onrender.com/" target="_blank"><img src="https://github.com/enzo-giacoia-gonzalez/fronEndPsychologist/blob/main/public/img/readme/Web%20Psic%C3%B3loga.png?raw=true" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
